@@ -15,7 +15,7 @@
 
 ###
 
-<h3 align="left">What I'm about About Me</h3>
+<h3 align="left">What I'm about </h3>
 
 ###
 
